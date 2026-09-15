@@ -1,20 +1,20 @@
 # Lab 01 - Submission
 
 Fill in each section below. The automated check (and your TA) will look for
-real answers here - the `TODO`s must be gone before the check turns green.
+real answers here - the stuff must be gone before the check turns green.
 
 ## Name
 
-TODO - your full name
+Miles Darrius Chua
 
 ## What I learned
 
-TODO - two or three sentences on something that clicked this lab
+I learned about different branch prefix names, such as naming naming branches with feat/, fix/, or docs/. I also learned about the industry standard for good commits.
 
 ## A Git command I will remember
 
-TODO - name one command and say, in a sentence, when you'd reach for it
+git switch - I would use this command to avoid pushing directly to main
 
 ## Evidence (links)
 
-- Merged pull request: TODO (paste the PR URL)
+https://github.com/MilesC31/csci3230u-lab-01-MilesC31/pull/1
